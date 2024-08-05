@@ -1,0 +1,16 @@
+.contenedor{
+
+    width:  100%;   
+    height: 1200px;
+    background-color: rgb(255, 234, 234);
+    display: flex;
+   
+   
+    flex-direction: column;
+}
+
+.encabesado{
+    width:  100%;   
+    height: 200px;
+    background-color: rgb(116, 41, 145)
+}
